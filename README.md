@@ -16,7 +16,9 @@ Clickjacking is a malicious technique of tricking a user into clicking on someth
 
 ```
 www.google.com
-www.turkhackteam.com
+www.facebook.com
+www.amazon.com
+www.cobaltstrike.com
 ```
 
 <h3>Output</h3>
