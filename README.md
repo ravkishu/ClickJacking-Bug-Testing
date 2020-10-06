@@ -5,7 +5,7 @@ Clickjacking is a malicious technique of tricking a user into clicking on someth
 
 <h3>Setup</h3>
 <ul>
-<li>In command line terminal use : git clone https://github.com/abhinavporwal/ClickJacking-Bug-Testing.git</li>
+<li>In command line terminal use : git clone https://github.com/abhinavporwal/ClickJacking-Bug-Testing.git && cd ClickJacking-Bug-Testing && pip3 install -r requirements.txt</li>
 </ul>
 
 <h3>Example</h3>
