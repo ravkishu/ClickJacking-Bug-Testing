@@ -12,6 +12,13 @@ Clickjacking is a malicious technique of tricking a user into clicking on someth
 <pre> python3 [.py file name] [domain list .txt file] </pre>
 <pre> python3 clickjacking.py test.txt </pre>
 
+##### sites.txt
+
+```
+www.google.com
+www.turkhackteam.com
+```
+
 <h3>Output</h3>
 <pre>root@root:~# python3 clickjacking_test.py test.txt
 
